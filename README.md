@@ -11,9 +11,8 @@ This project is a clone of OLX, a platform for buying and selling goods locally.
 
 ## Technologies Used
 - React
-- TypeScript
+- Javascript
 - Firebase (for authentication and data storage)
 - Axios (for making HTTP requests)
-- Tailwind CSS (for styling)
 
 ---
